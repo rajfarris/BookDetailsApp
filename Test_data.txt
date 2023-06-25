@@ -1,0 +1,38 @@
+##Bulk Insert Test Data
+[
+  {
+    "publisher": "Publisher 6",
+    "title": "Book 6",
+    "authorLastName": "AuthorLast 6",
+    "authorFirstName": "AuthorFirst 6",
+    "price": 9.99
+  },
+  {
+    "publisher": "Publisher 7",
+    "title": "Book 7",
+    "authorLastName": "AuthorLast 7",
+    "authorFirstName": "AuthorFirst 7",
+    "price": 14.99
+  },
+  {
+    "publisher": "Publisher 8",
+    "title": "Book 8",
+    "authorLastName": "AuthorLast 8",
+    "authorFirstName": "AuthorFirst 8",
+    "price": 19.99
+  }
+]
+
+##Single data Insert
+[{
+        "id": 0,
+        "publisher": "CodeWell Publications",
+        "title": "Cloud Computing",
+        "authorLastName": "Henry",
+        "authorFirstName": "Matt",
+        "price": 299.00,
+        "createdDate": "2023-06-25T00:01:59.447",
+        "mlaCitation": "",
+        "chicagoCitation": ""
+  }]
+
